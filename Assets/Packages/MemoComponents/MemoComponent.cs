@@ -39,4 +39,5 @@ public class MemoComponent : MonoBehaviour
         #endregion Method
     }
 }
+
 #endif // UNITY_EDITOR
