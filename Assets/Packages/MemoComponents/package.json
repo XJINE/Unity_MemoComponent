@@ -1,7 +1,7 @@
 {
     "name"       : "com.xjine.memo_components",
     "displayName": "Memo Components", 
-    "version"    : "1.0.0",
+    "version"    : "1.0.1",
     "unity"      : "2022.3",
     "description": "MemoComponent has a simple text field and displays the text in the Scene view. It will be removed when the scene is built.",
     "author"     :
